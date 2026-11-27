@@ -41,7 +41,7 @@ Run `cargo test`.
 ___
 
 ## 🌐 Deployment
-Run `docker run --rm -it t1ltxz/blockchain-sandbox:latest`.
+Run `docker run --rm -it Tilt/blockchain-sandbox:latest`.
 ___
 
 ## 📖 Example of usage
